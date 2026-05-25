@@ -1,22 +1,25 @@
 # StreamPi — Netflix for Pi Network
 
-Live Demo: https://pi-stream.vercel.app
+**Live Demo:** https://pi-stream.vercel.app
 
-Watch movies and series using Pi cryptocurrency. Built for Pi Network's 60M+ users.
+The first streaming platform built for Pi's 60+ million users. Pay per movie with Pi cryptocurrency.
 
-## Features
-- Pi Authentication (username)
-- Pi Testnet Payments (1π per movie)
-- Netflix-style UI
-- Mobile optimized for Pi Browser
-- Ready for Mainnet
+### Demo Screenshots
+![App](https://pi-stream.vercel.app)
 
-## Tech Stack
-- Pi SDK 2.0
-- Vercel Hosting
-- Vanilla JS
+### Features Live Now
+✅ Pi Authentication SDK 2.0
+✅ Pi Testnet Payments
+✅ Netflix-style UI (mobile + desktop)
+✅ 6 movie categories
+✅ Vercel production hosting
 
-## Status
-Testnet demo live. Ready for investor or Pi Core Team grant.
+### Tech
+- Pi SDK, JavaScript, Vercel
+- Ready for Mainnet migration
 
+### Opportunity
+Pi Network has no official streaming app. First mover advantage.
+
+**Asking: $75,000** — includes code, domain, Vercel, GitHub transfer.
 Contact: [your email]
